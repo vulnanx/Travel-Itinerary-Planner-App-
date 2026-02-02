@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "362346206910",
+    "project_id": "project-trippals",
+    "storage_bucket": "project-trippals.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362346206910:android:9121f48761b1f526f670ef",
+        "android_client_info": {
+          "package_name": "com.example.project23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362346206910-6tbleuqomks3s9b6u6gui21idbvb07sb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project23",
+            "certificate_hash": "0b573af23731962fbbea97975d41e8e1db30330a"
+          }
+        },
+        {
+          "client_id": "362346206910-qdtrhdsk1elq0ebkf081v4hq6r00h59g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-89Wpz7UE8DqD3Liq0X8et9zD6updebQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362346206910-qdtrhdsk1elq0ebkf081v4hq6r00h59g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "362346206910-o3dnnfvsdaar7ik8vmtkqbeoba4rdsva.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.project23"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
