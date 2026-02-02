@@ -3,7 +3,7 @@
 <br/><br/>
 
 <p align="center">
-  <img width="100" height="100" src="https://github.com/vulnanx/Travel-Itinerary-Planner-App/blob/main/assets/images/logo.png?raw=true" alt="tripals"/>
+  <img width="100" height="100" src="https://github.com/vulnanx/Travel-Itinerary-Planner-App/assets/images/logo.png?raw=true" alt="tripals"/>
 </p>
 
 <br/><br/>
@@ -43,4 +43,5 @@ flutter run
 - [qr](https://pub.dev/packages/qr)
 
 - [qr scanner](https://pub.dev/packages/qr_code_scanner_plus)
+
 
