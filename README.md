@@ -18,7 +18,7 @@ TripPals is a travel planning application, that allows users to create and plan 
 
 #### Clone the repository
 ```bash
-git clone https://github.com/CMSC23-UV-1L-AY2024-2025-2ndSem/project-trippals.git
+git clone https://github.com/vulnanx/Travel-Itinerary-Planner-App-.git
 ```
 
 #### Move to the directory where you cloned the repository and run the app
@@ -43,6 +43,7 @@ flutter run
 - [qr](https://pub.dev/packages/qr)
 
 - [qr scanner](https://pub.dev/packages/qr_code_scanner_plus)
+
 
 
 
